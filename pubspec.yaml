@@ -1,0 +1,10 @@
+name: kids_math_learning_app
+description: A simple app for kids to learn math operations.
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
